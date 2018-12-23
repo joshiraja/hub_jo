@@ -1,4 +1,3 @@
-#This finds the factorial of a given number
 #include <stdio.h>
  
 void fact()
