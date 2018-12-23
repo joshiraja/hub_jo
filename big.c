@@ -1,6 +1,6 @@
 #include<stdio.h>
  
-int main()
+void big()
 {
    int a, b, c;
    
@@ -11,5 +11,5 @@ int main()
    
    printf("Sum of the numbers = %d\n", c);
    
-   return 0;
+//   return 0;
 }
